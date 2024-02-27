@@ -1,4 +1,25 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Description of Permana Pokedex
+
+Temukan dan pelajari semua Pokemon favoritmu!
+
+Aplikasi Permana Pokedex adalah panduan lengkap untuk semua Pokemon di seluruh dunia. Dengan aplikasi ini, kamu dapat:
+
+1. Menjelajahi daftar Pokemon:
+   Lihat semua Pokemon dari semua generasi, termasuk informasi seperti nama, tipe, statistik, dan evolusi.
+   Gunakan filter dan pencarian untuk menemukan Pokemon yang kamu cari dengan mudah.
+
+2. Menambahkan Pokemon favorit:
+   Tandai Pokemon favoritmu untuk akses cepat dan mudah.
+   Buat daftar Pokemon favoritmu sendiri.
+
+3. Melihat detail Pokemon:
+   Pelajari semua tentang Pokemon favoritmu, termasuk statistik, evolusi, moveset, dan lokasi.
+   Lihat gambar dan model 3D Pokemon yang indah.
+
+4. Membandingkan Pokemon:
+   Bandingkan statistik, moveset, dan evolusi dua Pokemon.
+   Temukan Pokemon mana yang lebih kuat dalam pertempuran.
+   Temukan Pokemon mana yang lebih cocok untuk timmu.
 
 ## Getting Started
 
