@@ -49,7 +49,7 @@ const DetailStats: FC<DetailStatsProps> = ({
         </div>
         {/* abilities */}
         <div className="space-y-2">
-          {abilitiesPokemon.length > 1 ? (
+          {abilitiesPokemon?.length > 1 ? (
             <h3 className="font-semibold text-xl text-primary-500">
               Abilities
             </h3>
